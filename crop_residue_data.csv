@@ -1,0 +1,48 @@
+Crop,Residue,Dry weight conversion factor,Carbon fraction (% DAF),Carbon fraction (% DM),Lignin content (% DM),LHV (MJ/kg DAF)
+Arabica coffee,Husk,0.35,50.77,48.36,16.3,21.07
+Banana,Pith,0.35,45.42,39.95,14.85,16.6
+Barley,Straw,0.88,47.6,44.75,18.0,18.03
+Beans,Straw,1.0,45.68,42.97,10.3,17.26
+Cassava,Tops and stems,0.35,51.12,46.83,8.0,19.7
+Chickpea,Straw,1.0,43.39,40.18,11.9,18.1
+Cocoa,Pods,0.5,51.22,45.48,13.4,17.4
+Coconut,Frond,0.18,34.01,32.32,18.15,19.0
+Coconut,Husk,0.18,57.74,55.08,25.73,17.0
+Coconut,Shell,0.18,51.88,51.3,33.54,19.43
+Cotton,Straw,0.35,48.29,45.06,15.73,17.42
+Cowpea,Straw,1.0,43.39,37.45,8.0,17.5
+Groundnut,Husk,0.67,46.38,44.2,13.6,18.13
+Groundnut,Straw,0.67,41.18,37.1,10.2,17.8
+Maize,Cob,0.87,47.24,46.12,12.26,16.15
+Maize,Straw,0.87,48.82,46.44,7.1,18.0
+Oil palm,Bunch,0.23,46.49,43.55,36.23,15.21
+Oil palm,Shell,0.23,52.08,50.29,49.0,19.94
+Other cereals,Oat straw,0.88,50.26,47.68,15.4,18.62
+Other cereals,Other cereal straw,0.88,47.88,45.43,19.0,17.75
+Other cereals,Rye straw,0.88,49.79,47.24,11.4,16.45
+Other cereals,Triticale straw,0.88,41.85,39.7,29.0,17.68
+Other oil crops,Straw,0.22,50.98,47.58,17.1,19.96
+Pearl millet,Straw,0.9,43.71,39.95,10.7,17.7
+Pigeonpea,Straw,1.0,43.08,41.1,17.1,19.2
+Plantain,Peels,0.35,45.11,40.24,4.5,17.3
+Plantain,Pith,0.35,45.11,39.95,14.85,16.7
+Potato,Stems,0.25,40.3,34.94,9.4,17.7
+Rapeseed,Straw,0.9,50.79,47.76,13.0,20.81
+Rice,Husk,0.9,46.14,37.82,22.83,16.42
+Rice,Straw,0.9,50.43,41.09,14.02,17.26
+Robusta coffee,Husk,0.35,50.77,48.36,16.3,21.07
+Sesameseed,Straw,3.44,48.45,45.04,7.35,15.6
+Small millet,Straw,0.9,43.71,39.95,10.7,17.7
+Sorghum,Straw,0.88,48.39,44.99,9.44,17.74
+Soybean,Straw,0.9,48.83,45.9,16.0,19.0
+Sugarbeet,Tops,0.14,46.74,44.5,1.6,17.44
+Sugarcane,Bagasse,0.1,49.31,46.5,20.13,18.24
+Sugarcane,Straw,0.1,49.89,47.69,5.6,18.19
+Sunflower,Straw,0.9,53.33,49.07,22.3,20.06
+Tea,Woody residue,0.3,59.61,56.68,30.13,18.5
+Temperate fruit,Prunings,0.45,49.31,48.21,11.7,18.69
+Tobacco,Straw,0.45,42.39,36.77,21.73,14.98
+Tropical fruit,Average,0.46,44.59,42.97,17.2,17.82
+Tropical fruit,Mango seed,0.46,45.45,43.8,23.85,17.62
+Tropical fruit,Pineapple tops,0.46,42.92,41.36,4.28,18.2
+Wheat,Straw,0.88,49.05,45.04,18.29,18.19
